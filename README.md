@@ -1,5 +1,7 @@
-# NanoRise miniature elevator
+# Nano Rise
 
-FreeRTOS, PWM, I2C
+Miniature elevator project on a ESP32-S3
 
-https://www.youtube.com/watch?v=???
+I2C, PWM, FreeRTOS.
+
+https://www.youtube.com/watch?v=41-fYCdoonY
